@@ -1,0 +1,32 @@
+.button-container {
+  display: flex;
+  gap: 0.5rem;
+  margin: 0 auto;
+  max-width: 1200px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5rem;
+  width: 80%;
+  height: 3rem;
+  border-radius: 1rem;
+}
+
+.btn-pages {
+  width: 2rem;
+  height: 2rem;
+  border: none;
+  border-radius: 1rem;
+  background-color: #000;
+  color: #fff;
+  cursor: pointer;
+}
+
+.app__container-cards {
+  padding-top: 5rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  justify-items: center;
+  grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
+  gap: 1rem;
+}
