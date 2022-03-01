@@ -1,4 +1,6 @@
-# Pagination Example
+<div align='center'>
+  <h1>Pagination Example</h1>
+</div>
 
 ## 🚀 How to run
 
@@ -40,3 +42,7 @@ $ yarn dev
 This project is under MIT license. See [License][license] to learn more.
 
 Made with ❤️ by Jonathan Silva 👋🏽 [Linkedin](https://www.linkedin.com/in/jonathsilva)
+
+[nodejs]: https://nodejs.org/
+[license]: https://opensource.org/licenses/MIT
+[reactjs]: https://reactjs.org/
